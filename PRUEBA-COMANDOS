@@ -1,4 +1,4 @@
-El orden de los comandos para subir un archivos sería este:
+El orden de los comandos para subir un archivo sería este:
 * git init
 * git pull
 * git add .
